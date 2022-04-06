@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=R11 Old Footprint=Res1/4W New Footprint=RES-SMD-01005
+Change Component Footprint: Designator=R12 Old Footprint=Res1/4W New Footprint=RES-SMD-01005
+Change Component Comment : Designator=R11 Old Comment=1K New Comment=10K

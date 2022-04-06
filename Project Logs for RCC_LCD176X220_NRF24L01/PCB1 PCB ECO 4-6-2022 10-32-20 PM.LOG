@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=C10 Old Footprint=Cap-P-1.5/4 New Footprint=Cap-P-2.5/6.3
+Change Component Footprint: Designator=C11 Old Footprint=Cap-P-1.5/4 New Footprint=Cap-P-2.5/6.3
+Change Component Comment : Designator=C10 Old Comment=1uF/16V New Comment=220uF
+Change Component Comment : Designator=C11 Old Comment=1uF/16V New Comment=220uF

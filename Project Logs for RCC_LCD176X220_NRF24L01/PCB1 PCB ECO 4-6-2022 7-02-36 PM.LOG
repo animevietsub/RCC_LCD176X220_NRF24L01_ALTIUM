@@ -1,0 +1,44 @@
+Change Physical Footprint: Designator=C1 Old Footprint=Cap-P-1.5/4 New Footprint=Cap-P-1.5/4
+Change Physical Footprint: Designator=C2 Old Footprint=Cap-P-1.5/4 New Footprint=Cap-P-1.5/4
+Change Physical Footprint: Designator=C3 Old Footprint=Cap-Non-150mil New Footprint=Cap-Non-150mil
+Change Physical Footprint: Designator=C4 Old Footprint=CAP-SMD-01005 New Footprint=CAP-SMD-01005
+Change Physical Footprint: Designator=C5 Old Footprint=CAP-SMD-01005 New Footprint=CAP-SMD-01005
+Change Physical Footprint: Designator=C6 Old Footprint=CAP-SMD-01005 New Footprint=CAP-SMD-01005
+Change Physical Footprint: Designator=C7 Old Footprint=CAP-SMD-01005 New Footprint=CAP-SMD-01005
+Change Physical Footprint: Designator=C8 Old Footprint=Cap-P-1.5/4 New Footprint=Cap-P-1.5/4
+Change Physical Footprint: Designator=C9 Old Footprint=Cap-Non-150mil New Footprint=Cap-Non-150mil
+Change Physical Footprint: Designator=C10 Old Footprint=Cap-P-1.5/4 New Footprint=Cap-P-1.5/4
+Change Physical Footprint: Designator=C11 Old Footprint=Cap-P-1.5/4 New Footprint=Cap-P-1.5/4
+Change Physical Footprint: Designator=C12 Old Footprint=Cap-Non-150mil New Footprint=Cap-Non-150mil
+Change Physical Footprint: Designator=C13 Old Footprint=Cap-Non-150mil New Footprint=Cap-Non-150mil
+Change Physical Footprint: Designator=C14 Old Footprint=Cap-P-1.5/4 New Footprint=Cap-P-1.5/4
+Change Physical Footprint: Designator=C15 Old Footprint=Cap-Non-150mil New Footprint=Cap-Non-150mil
+Change Physical Footprint: Designator=C16 Old Footprint=CAP-SMD-01005 New Footprint=CAP-SMD-01005
+Change Physical Footprint: Designator=C17 Old Footprint=CAP-SMD-01005 New Footprint=CAP-SMD-01005
+Change Physical Footprint: Designator=CN3 Old Footprint=KF2/5.08 New Footprint=KF2/5.08
+Change Physical Footprint: Designator=D1 Old Footprint=SOD 106 New Footprint=SOD 106
+Change Physical Footprint: Designator=D2 Old Footprint=SOD 106 New Footprint=SOD 106
+Change Physical Footprint: Designator=D3 Old Footprint=SOD 106 New Footprint=SOD 106
+Change Physical Footprint: Designator=D4 Old Footprint=SOD 106 New Footprint=SOD 106
+Change Physical Footprint: Designator=F1 Old Footprint=Fuse-Dip1 New Footprint=Fuse-Dip1
+Change Physical Footprint: Designator=IC1 Old Footprint=SOIC127P600X175-16N New Footprint=SOIC127P600X175-16N
+Change Physical Footprint: Designator=IC2 Old Footprint=SOIC127P600X175-16N New Footprint=SOIC127P600X175-16N
+Change Physical Footprint: Designator=LED1 Old Footprint=LED 5MM RED New Footprint=LED 5MM RED
+Change Physical Footprint: Designator=LED2 Old Footprint=LED 5MM RED New Footprint=LED 5MM RED
+Change Physical Footprint: Designator=M1 Old Footprint=NRF24L01P_M New Footprint=NRF24L01P_M
+Change Physical Footprint: Designator=M2 Old Footprint=JOYSTICK New Footprint=JOYSTICK
+Change Physical Footprint: Designator=M3 Old Footprint=JOYSTICK New Footprint=JOYSTICK
+Change Physical Footprint: Designator=R1 Old Footprint=RES-SMD-01005 New Footprint=RES-SMD-01005
+Change Physical Footprint: Designator=R2 Old Footprint=RES-SMD-01005 New Footprint=RES-SMD-01005
+Change Physical Footprint: Designator=R3 Old Footprint=RES-SMD-01005 New Footprint=RES-SMD-01005
+Change Physical Footprint: Designator=R4 Old Footprint=RES-SMD-01005 New Footprint=RES-SMD-01005
+Change Physical Footprint: Designator=R5 Old Footprint=RES-SMD-01005 New Footprint=RES-SMD-01005
+Change Physical Footprint: Designator=R6 Old Footprint=RES-SMD-01005 New Footprint=RES-SMD-01005
+Change Physical Footprint: Designator=R7 Old Footprint=RES-SMD-01005 New Footprint=RES-SMD-01005
+Change Physical Footprint: Designator=R8 Old Footprint=RES-SMD-01005 New Footprint=RES-SMD-01005
+Change Physical Footprint: Designator=R9 Old Footprint=RES-SMD-01005 New Footprint=RES-SMD-01005
+Change Physical Footprint: Designator=R10 Old Footprint=RES-SMD-01005 New Footprint=RES-SMD-01005
+Change Physical Footprint: Designator=R11 Old Footprint=Res1/4W New Footprint=Res1/4W
+Change Physical Footprint: Designator=R12 Old Footprint=Res1/4W New Footprint=Res1/4W
+Change Physical Footprint: Designator=U1 Old Footprint=MODULE_ESP32-DEVKITC-32D New Footprint=MODULE_ESP32-DEVKITC-32D
+Change Physical Footprint: Designator=U2 Old Footprint=LCD_176X220_MODULE New Footprint=LCD_176X220_MODULE
