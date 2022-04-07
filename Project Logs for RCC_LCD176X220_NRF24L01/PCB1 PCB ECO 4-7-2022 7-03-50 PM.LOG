@@ -1,0 +1,15 @@
+Added Pin To Net: NetName=B1 Pin=R2-1
+Added Pin To Net: NetName=+3.3V Pin=R2-2
+Added Pin To Net: NetName=GND Pin=R5-1
+Added Pin To Net: NetName=NetM3_1 Pin=R5-2
+Added Pin To Net: NetName=+3.3V Pin=R6-1
+Added Pin To Net: NetName=NetM3_3 Pin=R6-2
+Added Pin To Net: NetName=+3.3V Pin=R8-1
+Added Pin To Net: NetName=NetM3_6 Pin=R8-2
+Added Pin To Net: NetName=GND Pin=R10-1
+Added Pin To Net: NetName=NetM3_4 Pin=R10-2
+Added Member To Class: ClassName=Sheet1 Member=Component R2 1K
+Added Member To Class: ClassName=Sheet1 Member=Component R5 1K
+Added Member To Class: ClassName=Sheet1 Member=Component R6 1K
+Added Member To Class: ClassName=Sheet1 Member=Component R8 1K
+Added Member To Class: ClassName=Sheet1 Member=Component R10 1K

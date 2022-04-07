@@ -1,0 +1,11 @@
+Change Component Comment : Designator=C1 Old Comment=1uF/16V New Comment=470uF
+Added Component: Designator=C18(Cap-Non-150mil)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C19(Cap-P-2.5/5)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=C18-1
+Added Pin To Net: NetName=+5V Pin=C18-2
+Added Pin To Net: NetName=+5V Pin=C19-1
+Added Pin To Net: NetName=GND Pin=C19-2
+Added Member To Class: ClassName=Sheet1 Member=Component C18 104
+Added Member To Class: ClassName=Sheet1 Member=Component C19 470uF
