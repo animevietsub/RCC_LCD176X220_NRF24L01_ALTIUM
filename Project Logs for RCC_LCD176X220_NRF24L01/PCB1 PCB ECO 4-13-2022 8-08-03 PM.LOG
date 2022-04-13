@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=LCD_DB7 Pin=IC1-2
+Removed Pin From Net: NetName=LCD_DB0 Pin=IC1-15
+Removed Pin From Net: NetName=NetIC1_9 Pin=R15-1
+Removed Pin From Net: NetName=NetIC1_9 Pin=R15-2
+Change Component Comment : Designator=R13 Old Comment=1K New Comment=0R
+Change Component Comment : Designator=R14 Old Comment=1K New Comment=0R
+Change Component Comment : Designator=R15 Old Comment=1K New Comment=0R
+Change Component Comment : Designator=R16 Old Comment=1K New Comment=0R
+Added Pin To Net: NetName=LCD_DB0 Pin=IC1-2
+Added Pin To Net: NetName=LCD_DB7 Pin=IC1-15
+Added Pin To Net: NetName=SPI_CS Pin=R14-1
+Added Pin To Net: NetName=SPI_CS Pin=R14-2
+Added Pin To Net: NetName=LCD_DB7 Pin=R15-1
+Added Pin To Net: NetName=LCD_DB7 Pin=R15-2
+Added Member To Class: ClassName=Sheet1 Member=Component R13 0R
+Added Member To Class: ClassName=Sheet1 Member=Component R14 0R
+Added Member To Class: ClassName=Sheet1 Member=Component R15 0R
+Added Member To Class: ClassName=Sheet1 Member=Component R16 0R

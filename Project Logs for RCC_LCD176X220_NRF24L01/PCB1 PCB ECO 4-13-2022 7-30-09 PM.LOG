@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=LCD_DB0 Pin=R16-1
+Removed Pin From Net: NetName=LCD_DB0 Pin=R16-2
+Removed Pin From Net: NetName=SPI_CS Pin=R17-1
+Removed Pin From Net: NetName=SPI_CS Pin=R17-2
+Removed Pin From Net: NetName=SPI_CS Pin=U1-9
+Removed Pin From Net: NetName=SPI_CLK Pin=U1-10
+Removed Pin From Net: NetName=SPI_MOSI Pin=U1-11
+Added Pin To Net: NetName=SPI_CLK Pin=U1-11
+Added Pin To Net: NetName=SPI_CS Pin=U1-12
+Added Pin To Net: NetName=SPI_MOSI Pin=U1-13
