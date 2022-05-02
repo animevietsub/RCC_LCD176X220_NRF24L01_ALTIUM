@@ -1,0 +1,21 @@
+﻿Field=#~Integer~#~50|Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~RCC_LCD176X220_NRF24L01.PrjPcb|ReportField=ProjectFullPath~E:\NEW_DATA\Project\RCC_LCD176X220_NRF24L01\RCC_LCD176X220_NRF24L01.PrjPcb|ReportField=Title~Bill of Materials For PCB Document [PCB1.PcbDoc]|ReportField=ReportTime~2:39:27 PM|ReportField=ReportDate~4/20/2022|ReportField=ReportDateTime~4/20/2022 2:39:27 PM|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=TotalQuantity~60|ReportField=TotalActualPrice~0|ReportField=TotalTargetPrice~0|ReportField=VersionControl_RevNumber~|ReportField=VersionControl_ProjFolderRevNumber~|ReportField=DataSourceFileName~PCB1.PcbDoc|ReportField=DataSourceFullPath~E:\NEW_DATA\Project\RCC_LCD176X220_NRF24L01\PCB1.PcbDoc|ReportField=PCBConfigurationName~Sources|ReportField=Item~|ReportField=ItemRevision~|ReportField=ItemAndRevision~|ReportField=ItemRevisionBase~|ReportField=ItemRevisionLevel1~|ReportField=ItemRevisionLevel2~|ReportField=ItemRevisionLevel1AndBase~|ReportField=ItemRevisionLevel2AndLevel1~
+1|Plated Hole|Single Terminal Socket|B1, B2, B3, B4|MTG300_600|PLATED_HOLE3.0_PAD6.0|4
+2|470uF|Polarized capacitor|C1, C19, C20|Cap-P-2.5/6.3|Cap-Pol-Dip|3
+3|220uF|Polarized capacitor|C2, C8, C10, C11, C14|Cap-P-2.5/5|Cap-Pol-Dip|5
+4|104|Non-polar capacitor|C3, C9, C12, C13, C15, C18|Cap-Non-150mil|Cap-Non-Dip|6
+5|104|Non-polar capacitor|C4, C5, C6, C7, C16, C17|CAP-SMD-0805|Cap-Non-SMD|6
+6|DC INPUT||CN3|KF2/5.08|KF 2|1
+7|SS14|Diode SMD|D1, D2, D4|SOD 106|Diode SMD|3
+8|1.00A||F1|Fuse-Dip1|Fuse Dip|1
+9|SN74HC595D|8-Bit Shift Register With 3-State Output Register|IC1, IC2|SOIC127P600X175-16N|SN74HC595D|2
+10|POWER||LED1|LED-0805|LED_SMD|1
+11|ESP-3.3V||LED2|LED-0805|LED_SMD|1
+12|NRF24L01||M1|NRF24L01P_M|NRF24L01|1
+13|JOYSTICK||M2, M3|JOYSTICK|JOYSTICK|2
+14|1K|Resistor SMD|R1, R2, R3, R4, R5, R6, R7, R8, R9, R10, R12|RES-SMD-0805|Res SMD|11
+15|10K|Resistor SMD|R11|RES-SMD-0805|Res SMD|1
+16|0R|Resistor SMD|R13, R14, R15|RES-SMD-0805|Res SMD|3
+17|0R|Resistor SMD|R16, R17, R18|RES-SMD-1206|Res SMD|3
+18|0R|Resistor SMD|R19, R20, R21, R22|RES-SMD-2512|Res SMD|4
+19|ESP32-DEVKIT-V1|- Transceiver; 802.11 b/g/n _Wi-Fi, WiFi, WLAN_, Bluetooth® Smart Ready 4.x Dual Mode For Use With ESP-WROOM-32|U1|MODULE_ESP32-DEVKITC-32D|ESP32-DEVKIT-V1|1
+20|ST7775R_2.0||U2|LCD_176X220_MODULE|LCD_176x220_ST7775R|1
